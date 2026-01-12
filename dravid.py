@@ -1,2 +1,2 @@
-for i in range(1,5):
-    print(i,"agile project")
+a=input("Enter a Name: ")
+print(a+" Welcomes to Agile Class")
